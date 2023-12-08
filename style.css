@@ -27,4 +27,13 @@ footer {
     text-align: center;
 }
 
+span{
+    color: red;
+    text-decoration: underline;font-size: larger;
+}
+
+.story{
+    background-color: green;
+    color: white;
+}
 /* Add more styles based on your creativity and design preferences */
