@@ -1,16 +1,21 @@
+
 body {
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
+    background-image: url('fireplace.gif');
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .container {
     width: 80%;
     margin: 0 auto;
+    
 }
 
 header, footer {
-    background-color: #3498db;
+    background-color: green;
     color: #fff;
     padding: 10px 0;
     text-align: center;
@@ -35,5 +40,12 @@ span{
 .story{
     background-color: green;
     color: white;
-}
+    border-radius: 20px;
+    font-family: 'Preahvihear', sans-serif;
+    box-shadow: 10px 5px 5px red;
+    
+}.
 /* Add more styles based on your creativity and design preferences */
+.red{
+    color: red;
+}
