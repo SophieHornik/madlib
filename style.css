@@ -25,6 +25,7 @@ footer {
     position: fixed;
     bottom: 0;
     width: 100%;
+    margin-top: 20px;
 }
 
 #madLibOutput {
@@ -42,7 +43,6 @@ span{
     color: white;
     border-radius: 20px;
     font-family: 'Preahvihear', sans-serif;
-    box-shadow: 10px 5px 5px red;
     
 }.
 /* Add more styles based on your creativity and design preferences */
