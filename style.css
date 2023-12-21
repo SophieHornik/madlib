@@ -43,9 +43,18 @@ span{
     color: white;
     border-radius: 20px;
     font-family: 'Preahvihear', sans-serif;
+    border-style: dotted;
+    border-width: 5px;
+    border-color: red;
     
 }.
 /* Add more styles based on your creativity and design preferences */
 .red{
     color: red;
+}
+iframe{
+    border-radius: 20px;
+    border-style: dotted;
+    border-width: 5px;
+    border-color: red;
 }
