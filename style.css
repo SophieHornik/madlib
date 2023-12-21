@@ -52,9 +52,4 @@ span{
 .red{
     color: red;
 }
-iframe{
-    border-radius: 20px;
-    border-style: dotted;
-    border-width: 5px;
-    border-color: red;
-}
+
